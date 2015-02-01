@@ -1,20 +1,42 @@
-# Dorans
+# dorans.rb
 
-A Ruby client for the [Riot Games API](https://developer.riotgames.com/).
+dorans.rb is a Ruby client for the [Riot Games API](https://developer.riotgames.com/). The goal is to provide an interface for working with Riot API responses in a sane manner.
 
-This project is a work in progress.
+*dorans.rb is under active development & considered a work in progress.*
 
-## About
+## Overview
 
-After searching around for a Riot API client, I decided there wasn't one which suited my needs. Thus Dorans was born.
+...
 
-My primary goal is to have a sane(ish) interface to retrieve & work with [game timeline data](https://developer.riotgames.com/api/methods#!/929/3214).
+## Installation
 
-## Todos
+...
 
-- [ ] Main client
-- [ ] Response objects
-- [ ] Frame Event objects
+## Getting Started
+
+...
+
+## Examples
+
+...
+
+## API Reference
+
+...
+
+## Contribution Guidelines
+
+...
+
+## Todo
+
 - [ ] Tests
 - [ ] Docs
-
+- [ ] Client
+- [ ] API::Response
+- [ ] Match::Detail
+- [ ] Match::Team
+- [ ] Match::Timeline
+- [ ] Match::Event (Frame)
+- [ ] Match::Player (Participant, ParticipantIdentity)
+- [ ] Match::PlayerStats

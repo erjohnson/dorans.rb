@@ -1,0 +1,21 @@
+Style/ClassAndModuleChildren:
+  Enabled: false
+  EnforcedStyle: compact
+  SupportedStyles:
+    - nested
+    - compact
+
+Metrics/LineLength:
+  Max: 99
+
+Style/EmptyLinesAroundClassBody:
+  EnforcedStyle: empty_lines
+  SupportedStyles:
+    - empty_lines
+    - no_empty_lines
+
+Style/EmptyLinesAroundModuleBody:
+  EnforcedStyle: empty_lines
+  SupportedStyles:
+    - empty_lines
+    - no_empty_lines

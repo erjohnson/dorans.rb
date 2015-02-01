@@ -1,0 +1,5 @@
+require 'dorans/api'
+require 'minitest/autorun'
+require 'json'
+require 'hurley'
+require 'logger'
